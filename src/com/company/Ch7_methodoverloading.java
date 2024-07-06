@@ -2,7 +2,7 @@ package com.company;
 
 public class Ch7_methodoverloading {
     //method overloading means two method have the same name but different parameter list
-
+   // it is related to the compile time
     int mult(int x , int y){
         int multiplication =x*y;
         return multiplication;
